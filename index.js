@@ -9,6 +9,7 @@ function map(src, func) {
   }
 
   return r;
+<<<<<<< HEAD
 }
 
 function reduce(src, func, starting){
@@ -20,4 +21,6 @@ function reduce(src, func, starting){
   }
 
   return r;
+=======
+>>>>>>> 472121997446476490d8a0b392b4758f40ff396a
 }
